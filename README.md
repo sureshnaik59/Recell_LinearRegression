@@ -1,6 +1,6 @@
 # Recell_LinearRegression
-Data Dictionary
-• brand_name: Name of manufacturing brand
+-- Data Dictionary
+ brand_name: Name of manufacturing brand
 • os: OS on which the device runs
 • screen_size: Size of the screen in cm
 • 4g: Whether 4G is available or not
